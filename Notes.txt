@@ -1,0 +1,55 @@
+Introduction to Flutter:
+
+What is Flutter?
+1) Mobile UI Framework for creating native apps for iOS and Android.
+2) Single code base (dart) means we only have to write our app once for multiple devices.
+
+Why Git - Version control system and we use it to track changes in our code.
+
+Why use flutter?
+
+Only 1 code base
+Good layout meyhodology borrowed from responsive web
+Very smooth and quick experience when running apps
+works well with Firebase as a backend
+Uses dart, which is a really easy language to pick up
+Uses material Design out of the box 
+
+
+
+Widgets - bedrock of flutter applications
+
+Types:
+
+Root Widget: In an app created by flutter, surrounding the entire app is the widget known as root widget.
+App Bar Widget: Nested inside the root widget is the App bar widget.
+Container Widget: Another nested widget inside root widget. Inside this also text widgets can be there.
+Text Widget: Nested further inside is the text widget, which contains the title.
+
+Widget basically forms like a widget tree inside the app. The tree basically describes the structure of the widgets inside the App.
+
+Examples of other widgets: Button widgets(to insert buttons), Row/Column Widgets: To layout the app in rows or columns, Image Widget: Inserting Images etc.
+
+Each widget contains some properties for proper development of the app which defines how they actually look and behave on a screen.
+
+Text Widget: may contain style, text align, overflow, maxLines and other properties
+Button widget: may contain properties such as color, elevation, disabledColor etc.
+
+
+DART:
+
+Variables & Datatypes:
+Dart is a staticly typed programming language. In Dart once the datatype of variable is defined it cannot be changed.
+Dart comes with a different datatype which is knwon as dynamic.
+Dynamic datatype allows the user to change the type of the variable, but this can cause confusions when working with staticly typed programming and ultimately lead to errors.
+It is better for any app to have the varianle names and types declared first.
+List is also used as a datatype in Dart. It has the same features as in python i.e. mutability
+
+Functions:
+Working of functions in Dart is the same as the working in any other languages.
+In Dart functions can also be allowed to return any value with the help of arrows by deleting the parathesis, unlike other function calling in oyher programming languages.
+
+Tried few basc programs in Dart and intend to start working with Android Visual Studio. Really need help from mentors as i am totally new in this topic.
+
+ 
+
